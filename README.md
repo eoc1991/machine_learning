@@ -1,7 +1,7 @@
  machine_learning
  ================
 ## 前置课程
-线性代数 概率论 微分 统计学
+基础的线性代数、概率论、微分、统计学知识
 ## 程序语言
 Python(推荐安装[Anaconda](https://www.jb51.net/article/137772.htm))
 ## Python教程
@@ -17,7 +17,11 @@ Spyder（anaconda自带）， Pycharm
 周志华 著.机器学习，北京:清华大学出版社<br>
 李航 著.统计学方法，清华大学出版社
 ## 相关视频
+Google机器学习： https://developers.google.com/machine-learning/crash-course/glossary#learning_rate
 吴恩达机器学习： https://study.163.com/course/introduction/1004570029.htm <br>
 李宏毅机器学习： https://www.bilibili.com/video/av10590361?from=search&seid=15963847563577680344 <br>
 林轩田机器学习： https://www.bilibili.com/video/av28329973?from=search&seid=12464670072527312270  <br>
 深度学习： http://www.fast.ai/
+## 相关资料
+[如何入门机器学习](https://byrio.org/how-to-machine-learning/)
+
