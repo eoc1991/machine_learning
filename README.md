@@ -17,7 +17,7 @@ Spyder（anaconda自带）， Pycharm
 周志华 著.机器学习，北京:清华大学出版社<br>
 李航 著.统计学方法，清华大学出版社
 ## 相关视频
-Google机器学习： https://developers.google.com/machine-learning/crash-course/glossary#learning_rate
+Google机器学习： https://developers.google.com/machine-learning/crash-course/glossary#learning_rate<br>
 吴恩达机器学习： https://study.163.com/course/introduction/1004570029.htm <br>
 李宏毅机器学习： https://www.bilibili.com/video/av10590361?from=search&seid=15963847563577680344 <br>
 林轩田机器学习： https://www.bilibili.com/video/av28329973?from=search&seid=12464670072527312270  <br>
