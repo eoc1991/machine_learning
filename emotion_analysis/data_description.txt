@@ -1,4 +1,2 @@
 aclImdb movie comment data(http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
-
-
 GoogleNews-vectors-negative300.bin.gz(https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
